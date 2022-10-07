@@ -14,3 +14,4 @@ estoque)
 ![image](https://user-images.githubusercontent.com/11077068/194566095-9456f3d7-8aec-45b5-a5b0-f1909a391eaa.png)
 
 
+Instrutor: <i>  [Nelio Alves](https://github.com/acenelio) </i>  
